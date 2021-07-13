@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+}
+.button{
+    margin-right: 5px;
+    size: 10px;
+    
+}
+.h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    height: 25px;
+    width:200px;
+}
